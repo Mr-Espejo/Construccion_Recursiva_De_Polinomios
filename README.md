@@ -1,0 +1,2 @@
+# Construccion_Recursiva_De_Polinomios
+Parcial2ComputaciónCientifica
